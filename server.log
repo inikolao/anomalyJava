@@ -1,0 +1,17 @@
+2015-03-17 02:09:27,509 4390 INFO  [server_util.cpp:361] starting jubaanomaly 0.6.4 RPC server at 192.168.2.8:9227
+    pid                  : 4390
+    user                 : root
+    mode                 : standalone mode
+    timeout              : 10
+    thread               : 2
+    datadir              : /tmp
+    logdir               : 
+    log config           : 
+    zookeeper            : 
+    name                 : 
+    interval sec         : 16
+    interval count       : 512
+    zookeeper timeout    : 10
+    interconnect timeout : 10
+
+2015-03-17 02:09:27,510 4390 INFO  [server_util.cpp:118] load config from local file: /root/NetBeansProjects/anomaly/jubaanomaly-config.json
